@@ -1,3 +1,6 @@
+Crazy, ok, hours later after a break, I shut it down, create a new folder, pulled clone, and copied the text file afterwards.
+Then I did the add, commit, push,  and it all worked out.  checked the online version to make sure.
+2) now I am editing this file to see if my changes can be pused up there too.
 This is second file that is being worked on in the cloned version (2nd user)
 This file was not in the original master.
 I tried to do a git push,
