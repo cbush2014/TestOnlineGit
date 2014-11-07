@@ -1,0 +1,9 @@
+This is second file that is being worked on in the cloned version (2nd user)
+This file was not in the original master.
+I tried to do a git push,
+then git add,
+having issues
+This was "clean". the working dir was clean and there was nothing to commit. 
+However, it seems that since I started doing other things in powershell before I 
+came back to this local directory and tried to "push" up this file.  The online version doesn't have CloneBoy.txt yet.
+Therefore, I then editted the CloneBoy.txt with this new text and will Save in hopes that then the file will be
